@@ -1,4 +1,15 @@
-key1: default1
-key2: default2 
-key3: default3
-key4: default4
+security:
+  basic:
+    enabled: false
+  user:
+    password: pass
+    
+management:
+  security:
+    enabled: true
+  info:
+   git:
+     mode: full
+  cloudfoundry:
+    skip-ssl-validation: true
+    
