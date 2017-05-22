@@ -12,4 +12,10 @@ management:
      mode: full
   cloudfoundry:
     skip-ssl-validation: true
+
+    
+key1: test1
+key2: test2 
+key3: test3
+key4: test4
     
