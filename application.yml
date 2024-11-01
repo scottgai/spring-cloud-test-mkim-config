@@ -13,7 +13,7 @@ management:
   cloudfoundry:
     skip-ssl-validation: true
 
-cook.special: Kim Chi3 (git-repo> application.yml)
+cook.special: Kim Chi4 (git-repo> application.yml)
 
 key1: test1
 key2: test2 
